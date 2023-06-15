@@ -1,0 +1,8 @@
+
+1. Paczka może zostać tylko raz wydana i dostarczona
+2. Paczka nie może zostać dodana 2 razy
+3. Czerwony przycisk -dostarczenie
+    Zielony - wydawania
+
+
+    Jeżeli ktoś próbuje wydać paczkę której nie było w systemi to error
